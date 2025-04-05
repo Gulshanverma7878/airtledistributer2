@@ -64,13 +64,13 @@ const BankPage = () => {
 
   return (
     <div className="p-4">
-      <h1 className="text-2xl font-bold mb-4">Bank Management ||</h1>
+      <h1 className="text-2xl font-bold mb-4">Bank Management</h1>
       <div className='flex justify-end'>
       <button
         onClick={() => setIsFormOpen(true)}
         className="bg-blue-600 text-white px-4 py-2 rounded mb-4"
       >
-        Add Bank || ADD Bank
+        Add Bank
       </button>
 
       </div>
