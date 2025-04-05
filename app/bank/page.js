@@ -72,7 +72,7 @@ const BankPage = () => {
       >
         Add Bank {/* Add Bank Button */}
       </button>
-
+{/*  */}
       </div>
 
       {/* Form Popup */}
